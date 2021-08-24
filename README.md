@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikas-narwariya
 - 👀 I’m interested in doing real time projects.
-- 🌱 I’m currently learning Internet of things.
+- 🌱 I’m currently learning ReactJS and Internet of things.
 - 💞️ I’m looking to collaborate on technical work sites
 - 📫 you can contact me via my mail vikasnarwariya15@gmail.com.
 
