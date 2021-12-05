@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in doing real time projects and work from home
 - 🌱 I’m currently learning MERN Stack and Internet of things
-- 💞️ I’m looking to collaborate on technical work sites and on ideas that count(& sell too) 
+- 👯 I’m looking to collaborate on technical work sites and 
+      on ideas that count(& sell too) 
 - 🔭 I’m currently working on web development projects 
-- 👯 I’m ready to collaborate
 - 💬 Ask me about something I know
   <br/>
   
