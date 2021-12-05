@@ -15,11 +15,11 @@ You can click the Preview link to take a look at your changes.
 <img align="right" height="200px" width="350px" alt="GIF" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" />
 
 
-- 👀 I’m interested in doing real time projects
+- 👀 I’m interested in doing real time projects and work from home
 - 🌱 I’m currently learning MERN Stack and Internet of things
 - 💞️ I’m looking to collaborate on technical work sites and on ideas that count(& sell too) 
 - 🔭 I’m currently working on web development projects 
-- 👯 I’m looking to collaborate on 
+- 👯 I’m ready to collaborate
 - 💬 Ask me about something I know
   <br/>
   
