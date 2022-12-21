@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Bonjour 👋, <h1>
   
-  <h3 align="center">I am Vikas Narwariya 👦: currently a B.Tech undergraduate pre-final year student in Amity University Madhya Pradesh📘.I'm a full-stack developer and  a general Tech buff.
+  <h3 align="center">I am Vikas Narwariya 👦: currently a B.Tech undergraduate final year student in Amity University Madhya Pradesh📘.I'm a full-stack developer and  a general Tech buff.
 </h3>
 <br/>
 
