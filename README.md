@@ -8,18 +8,18 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Bonjour 👋, <h1>
   
-  <h3 align="center">I am Vikas Narwariya 👦: currently a Software Engineer at Qualimatrix📘.I'm a full-stack developer and  a general Tech buff.
+  <h3 align="center">I'm Vikas Narwariya, a Software Engineer at Qualimatrix with a passion for transforming web experiences. As a full-stack developer and tech enthusiast, I bring my expertise to elevate client web apps by migrating them to Next.js.
 </h3>
 <br/>
 
 <img align="right" height="200px" width="350px" alt="GIF" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" />
 
 
-- 👀 I’m interested in doing real time projects and work from home
-- 🌱 I’m currently learning MERN Stack and Internet of things
-- 🔥 I’m looking to collaborate on technical work sites and 
+- Thriving in the Next.js space! Recently transitioned to on-site work.
+- I'm excited to dive deeper into Next.js projects.
+- I'm now fully immersed in Next.js projects, which is super exciting!
+- I’m looking to collaborate on technical work sites and 
       on ideas that count(& sell too) 
-- 🔭 I’m currently working on web development projects 
 - 💬 Ask me about something I know
   <br/>
   
